@@ -24,7 +24,7 @@ export default function Experience() {
         </CardHeader>
         <CardContent>
           <blockquote className="italic">
-            "We were able to depend on Jason for a lot of development, design, and documentation tasks. He was a real pleasure to work with, and definitely we will hire him again when he has time to return."
+          &ldquo;We were able to depend on Jason for a lot of development, design, and documentation tasks. He was a real pleasure to work with, and definitely we will hire him again when he has time to return.&rdquo;
           </blockquote>
           <p className="mt-2 text-right">- Don Milligan, CTO of Neural Internet</p>
         </CardContent>
