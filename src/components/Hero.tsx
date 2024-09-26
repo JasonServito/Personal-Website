@@ -20,7 +20,9 @@ export default function Hero() {
           </a>
         </div>
         <Button>
-          Download Resume
+          <a href="/assets/Jason_Servito_Resume.pdf" download>
+            Download Resume
+          </a>
         </Button>
       </div>
       <div className="md:w-1/2 mt-8 md:mt-0">
