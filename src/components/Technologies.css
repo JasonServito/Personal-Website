@@ -1,0 +1,14 @@
+.tech-logos {
+    display: flex;
+    justify-content: center; /* Center items within the row */
+    flex-wrap: wrap; /* Allow items to wrap */
+    gap: 25px;
+    /* Remove width: 100% if it causes overflow */
+}
+
+.tech-logos img {
+    max-width: 150px;
+    max-height: 150px;
+    width: auto; /* Maintain aspect ratio */
+    height: auto;
+}
