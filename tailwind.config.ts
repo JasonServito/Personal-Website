@@ -20,6 +20,10 @@ module.exports = {
           DEFAULT: '#e3342f',
           foreground: '#ffffff',
         },
+        navyBlue: {
+          DEFAULT: '#000080',
+          foreground: '#ffffff',
+        },
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
